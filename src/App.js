@@ -1,7 +1,7 @@
 import React from 'react';
-import Description from './components/Description';
-import Cara from './components/Carousels';
-import './App.css';
+import Description from './components/VideoDescription/Description';
+import Cara from './components/Carousel/Carousels';
+import './styles/App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
