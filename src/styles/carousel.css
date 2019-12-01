@@ -1,0 +1,23 @@
+.Carousel {
+    /* background-color: rgba(82, 113, 132, 0.5) */
+    /* background: url(../assets/cloud.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+    /* top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute; */
+    z-index: -1;   
+
+}
+.item {
+    background-color: rgba(82, 113, 132, 0.5);
+    background: url(../assets/cloud.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

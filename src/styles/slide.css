@@ -1,0 +1,38 @@
+.slide {
+	overflow: hidden;
+}
+.image {
+    width: 200px;
+    float: left;
+    margin-left: 100px;
+    padding-bottom: 100px;
+    padding-top: 20px;
+
+}
+.details {
+    padding-top: 20px;
+}
+.details, .button {
+    overflow: hidden;
+    padding-left: 40px;
+}
+.details h2 {
+    margin-left: -5px;
+}
+.button button {
+    margin-right: 10px;
+    font-weight: bold;
+    
+}
+.btn.btn-primary {
+    background-color: #347ea3;
+    border-color: #347ea3
+}
+.btn.btn-outline-dark {
+    color: white;
+    border-color: white;
+}
+.icon {
+    width: 24px;
+    height: 24px;
+}
